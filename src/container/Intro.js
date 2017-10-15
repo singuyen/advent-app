@@ -29,7 +29,7 @@ class Intro extends Component {
             <li>
               <h5>Draw the map</h5>
               <small>The map provided all the information I needed</small>
-              <p>"I can calculate how many block aways"</p>
+              <p>"I can calculate how many blocks away"</p>
               <p>"I can calculate my first location I visit twice."</p>
             </li>
           </ul>
